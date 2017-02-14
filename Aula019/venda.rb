@@ -45,7 +45,7 @@ class Venda
       pagseguro = Pagamento::Pagseguro.new
       pagar(valor_final)
     else
-      puts"Ok! Fica para a próxima!!!)
+      puts"Ok! Fica para a próxima!!!"
     end
     end
     end
